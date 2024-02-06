@@ -1,4 +1,4 @@
-# Dashboard-Log-stica
+# Dashboard-Logística
 Dashboard Logística
 
 Este dashboard foi desenvolvido para oferecer uma visão abrangente e detalhada das operações logísticas de uma empresa fictícia. Aqui está uma visão geral do que você encontrará neste dashboard.
